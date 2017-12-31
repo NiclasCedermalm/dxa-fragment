@@ -18,7 +18,7 @@ Setup
 
 Setup the module in CMS by importing the provided content porter package (under cms/) into your SDL Tridion Sites CMS where DXA is installed.
 
-Compile the DXA module (there is variants for both .NET and Java) and install it the usual way into your DXA web application (add new JAR/DLL/Area etc).
+Compile the DXA module (there are variants for both .NET and Java) and install it the usual way into your DXA web application (add new JAR/DLL/Area etc).
 
 Branching model
 ----------------
